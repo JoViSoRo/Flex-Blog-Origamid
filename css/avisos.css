@@ -1,0 +1,21 @@
+.avisos-bg {
+  background: #122ab2;
+  color: white;
+}
+
+.avisos {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.avisos a,
+.avisos p {
+  margin: 5px 10px 5px 10px;
+}
+.avisos a {
+  color: white;
+}
